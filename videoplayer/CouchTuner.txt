@@ -1,0 +1,9 @@
+ShowList:
+http://www.couchtuner.eu/tv-streaming/
+
+ShowEpisodeList:
+http://www.couchtuner.eu/watch-<show-name>-online
+
+EpisodeURLList:
+#content ul li a href
+
